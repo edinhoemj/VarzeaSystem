@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Varzea System</string>
+    <string name="editTextUserNameToLogin">Usuário</string>
+    <string name="editTextPasswordToLogin">Senha</string>
+    <string name="button_send">Enviar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
